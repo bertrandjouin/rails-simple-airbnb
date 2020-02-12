@@ -1,0 +1,60 @@
+.card {
+  width: 300px;
+  border-radius: 4px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+.card-image {
+  background-image: url("https://images.unsplash.com/photo-1449844908441-8829872d2607?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80");
+  height:200px;
+  background-size: cover;
+}
+
+.card-top {
+  background-color: #F8F9FA;
+  padding: 10px;
+}
+
+.card p {
+  font-size: 12px;
+  margin-bottom: 5px;
+  margin-right: 10px;
+}
+
+.card h3 {
+  font-size: 20px;
+}
+
+.card-bottom {
+  padding: 0px 10px;
+}
+
+.card-bottom a {
+  font-size: 12px;
+}
+
+.card-large {
+  background-color: #F8F9FA;
+  padding: 10px;
+  margin: 30px 0px;
+  width: 700px;
+  border-radius: 4px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+.carte-image img {
+  width: 600px;
+}
+
+.carte-image {
+  text-align: center;
+}
+
+.flat-infos-right {
+  background-color: #F8F9FA;
+  padding: 10px;
+  margin: 30px 0px;
+  width: 200px;
+  height: 200px;
+
+}
